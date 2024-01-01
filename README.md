@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tylerzika
-- I've been programming for about 10 years. Currently exploring what my next tech stack will be.
 - 📫 How to reach me: tyler@zika.email
 
 <!---
